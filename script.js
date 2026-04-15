@@ -6,3 +6,11 @@ button.addEventListener("click", () => {
   button.textContent = "Alchemy Complete";
   button.style.background = "#22c55e";
 });
+
+const sparkle = document.querySelector(".sparkle");
+
+button.addEventListener("click", () => {
+  message.textContent = "✨ Spell Cast! Conversions Increased ✨";
+  sparkle.textContent = "🧙‍♂️✨💰";
+  sparkle.style.opacity = 1;
+});
