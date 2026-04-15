@@ -4,7 +4,7 @@ This is a frontend demo inspired by DA’s approach to conversion-focused websit
 
 ## Overview
 
-This project recreates a simplified landing experience that focuses on user interaction and call-to-action behavior rather than static content. The goal was to demonstrate how small UI changes—like CTA styling and interaction—can influence engagement.
+This project recreates a simplified landing experience that focuses on user interaction and call-to-action behavior rather than static content. The goal was to demonstrate how small UI changes, like CTA styling and interaction, can influence engagement.
 
 ## Features
 
