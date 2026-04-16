@@ -1,6 +1,6 @@
 # dealer-alchemist-demo
 
-This is a frontend demo inspired by DA’s approach to conversion-focused website design.
+This is a frontend demo inspired by DA’s approach to conversion focused website design, just making a lil CTA with a fun ending.
 
 ## Overview
 
@@ -21,15 +21,13 @@ This project recreates a simplified landing experience that focuses on user inte
 
 ## What I Focused On
 
-Instead of building a full site, I focused on:
-
 - Improving how users interact with a CTA
 - Keeping the experience fast and simple
 - Designing with conversion in mind (clear action, minimal friction)
 
 ## Purpose
 
-This project was created to practice frontend development and explore how design and interaction can impact user engagement—especially in a dealership marketing context where converting traffic into leads is key.
+This project was created to practice frontend development and explore how design and interaction within a dealership marketing context where converting traffic into leads is key.
 
 ## Live Demo
 
